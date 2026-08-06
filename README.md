@@ -8,6 +8,8 @@
 - I’m friendly
 - [My javascript资源](https://wbw121124.lanzouq.com/b00mora5di)
 - [x] It’s OK
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=wbw121124&theme=dark&border_radius=5&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
   
 <!---
 wbw121124/wbw121124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
