@@ -1,7 +1,6 @@
 /*
 wbw-pop-up-window.js
 author: wbw121124
-作者中文名: 吴邦玮
 联系方式: wbw121124@outlook.com https://github.com/wbw121124
 version: 1.0
 code: UTF-8
