@@ -11,7 +11,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wbw121124&theme=dark&border_radius=5&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=wbw121124&layout=pie&langs_count=10&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=wbw121124&layout=pie&langs_count=10&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=wbw121124&layout=pie&langs_count=100&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=wbw121124&layout=pie&langs_count=100&theme=transparent)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=wbw121124&rank_icon=percentile&custom_title=%E6%88%91%E7%9A%84%20Github%20%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=wbw121124&rank_icon=percentile&custom_title=%E6%88%91%E7%9A%84%20Github%20%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=transparent)
   
